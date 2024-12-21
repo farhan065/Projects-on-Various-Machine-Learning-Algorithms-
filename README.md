@@ -4,7 +4,7 @@ Welcome to my Machine Learning projects repository! This repository contains imp
 
 ---
 
-## [Projects on Association Rule] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Association%20Rule)
+[Projects on Association Rule] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Association%20Rule)
 
 ### Dataset: [Market Basket Optimization](https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/blob/main/Projects%20on%20Association%20Rule/Using%20Eclat%20algorithm%20to%20predict%20what%20items%20a%20customer%20may%20purchase/Market_Basket_Optimisation.csv)
 
@@ -18,7 +18,7 @@ Welcome to my Machine Learning projects repository! This repository contains imp
 
 ---
 
-## [Projects on Classification] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Classifications)
+ [Projects on Classification] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Classifications)
 
 ### Dataset: [Social Network Ads](https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/blob/main/Projects%20on%20Classifications/To%20find%20out%20which%20customer%20will%20buy%20the%20product%20using%20Decision%20Tree/Social_Network_Ads.csv)
 
@@ -45,7 +45,7 @@ Welcome to my Machine Learning projects repository! This repository contains imp
 
 ---
 
-## [Projects on Clustering] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Clustering)
+ [Projects on Clustering] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Clustering)
 
 ### Dataset: [Mall Customers](https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/blob/main/Projects%20on%20Clustering/Using%20K-means%20to%20cluster%20the%20customer/Mall_Customers.csv)
 
@@ -57,7 +57,7 @@ Welcome to my Machine Learning projects repository! This repository contains imp
 
 ---
 
-## [Projects on Dimensionality Reduction] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Dimensionality%20Reduction)
+ [Projects on Dimensionality Reduction] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Dimensionality%20Reduction)
 
 ### Dataset: [Wine](https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/blob/main/Projects%20on%20Dimensionality%20Reduction/Using%20Kernal%20Pricipal%20Component%20Analysis%20to%20cluster%20the%20customers%20in%20a%20wine%20shop/Wine.csv)
 
@@ -72,7 +72,7 @@ Welcome to my Machine Learning projects repository! This repository contains imp
 
 ---
 
-## [Projects on Linear Regression] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Linear%20Regression)
+ [Projects on Linear Regression] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Linear%20Regression)
 
 ### Dataset: [50 Start Ups](https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/blob/main/Projects%20on%20Linear%20Regression/Estimate%20the%20profit%20of%20an%20organization%20using%20multiple%20linear%20regression/50_Startups.csv)
 
@@ -100,7 +100,7 @@ Welcome to my Machine Learning projects repository! This repository contains imp
 
 ---
 
-## [Projects on Reinforcement Learning] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Reinforcement%20Learning)
+ [Projects on Reinforcement Learning] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Projects%20on%20Reinforcement%20Learning)
 
 ### Dataset: [Ads CTR Optimization](https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/blob/main/Projects%20on%20Reinforcement%20Learning/Using%20Thomson%20Sampling%20to%20find%20out%20which%20add%20will%20be%20selected%20most%20by%20the%20viewers/Ads_CTR_Optimisation.csv)
 
@@ -112,7 +112,7 @@ Welcome to my Machine Learning projects repository! This repository contains imp
 
 ---
 
-## [Project on XGBoost] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Using%20XGBoost%20model%20to%20identify%20whether%20the%20tumor%20is%20malignant%20or%20bening/Python)
+ [Project on XGBoost] (https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/tree/main/Using%20XGBoost%20model%20to%20identify%20whether%20the%20tumor%20is%20malignant%20or%20bening/Python)
 
 ### Dataset: [Data](https://github.com/farhan065/Projects-on-Various-Machine-Learning-Algorithms-/blob/main/Using%20XGBoost%20model%20to%20identify%20whether%20the%20tumor%20is%20malignant%20or%20bening/Python/Data.csv)
 
